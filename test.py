@@ -3,3 +3,4 @@ def hello (name):
 
     hello("Natalia")
     hello("Git")
+    hello("Python")
